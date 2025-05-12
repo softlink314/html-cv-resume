@@ -1,0 +1,70 @@
+.container{
+    align-items: center;
+    margin-left: 30px;
+    font-size: 18px;
+}
+.professional{
+    margin-top: 50px;
+}
+.first{
+    font-size: 20px;
+}
+.Blue{
+    color: blue;
+    font-size: 25px;
+    font-weight: bolder;
+} 
+.third{
+    margin-top: 30px;
+}
+.education{
+    font-size: 25px;
+    color: blue;
+    font-weight: bolder;
+}
+.skills{
+    color: blue;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.fourth{
+    margin-top: 30px;
+}
+.five{margin-top: 30px;}
+.certifications{
+    color: blue;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.nysc{font-size: 20px;
+    font-weight: bolder;
+}
+.six{
+    margin-top: 30px;
+}
+.experience{
+    color: blue;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.refrences{
+    color:blue;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.seven{
+    margin-top: 30px;
+}
+footer{font-size: 12px;
+text-align: center;
+color: #555;
+margin-top: 50px;
+}
+.p{font-weight: bolder;}
+.b{font-weight: bolder;}
+span{font-weight: bold;}
+.images{
+    display: flex;
+    justify-content: center;
+}
